@@ -270,11 +270,6 @@ ul {
     .header__account-link {
         padding: 16px 40px;
     }
-    /* .header__main-wrapper::before {
-        bottom: 0px;
-        /* padding: 19.5px; 
-        background-size: cover;
-    } */
     .hero__slider-img {
         max-width: 782px;
         bottom: -61px;
